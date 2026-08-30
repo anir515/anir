@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BU</string>
+    <string name="title_activity_main">BU</string>
+    <string name="package_name">B.U</string>
+    <string name="custom_url_scheme">B.U</string>
+</resources>
