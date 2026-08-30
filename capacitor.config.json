@@ -1,0 +1,13 @@
+{
+  "appId": "B.U",
+  "appName": "BU",
+  "webDir": "public",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    },
+    "CapacitorCookies": {
+      "enabled": true
+    }
+  }
+}
